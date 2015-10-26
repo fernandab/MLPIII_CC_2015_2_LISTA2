@@ -1,3 +1,7 @@
 # MLPIII_CC_2015_2_LISTA2
 
-Repositório dedicado para a resolução da Lista 2 do 2º Estágio da matéria de Metodologia de Linguagem de Programação III do Curso de Ciência da Computação do UNIPÊ.
+RepositÃ³rio dedicado para a resoluÃ§Ã£o da Lista 2 do 2Âº EstÃ¡gio da matÃ©ria de Metodologia de Linguagem de ProgramaÃ§Ã£o III do Curso de CiÃªncia da ComputaÃ§Ã£o do UNIPÃŠ.
+
+Alunos:
+Fernanda Barbosa
+Samirys Baia
