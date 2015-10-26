@@ -1,0 +1,7 @@
+QUESTÃO 4
+
+Conforme o teste realizado das duas implementações, é perceptível a execução um pouco mais lenta da implementação do TreeSet em comparação a implementação do LinkedHashSet. Em alguns dos testes efetuados, a diferença de tempo chegou a atingir 10s, as vezes até mais. 
+
+O principal motivo para essa ligeira lentidão na implementação é a garantia de ordenação dos dados durante a inserção e a remoção dos objetos. O LinkedHashSet não usa esse critério de implementação, sendo executado através de uma lista encadeada e seguindo a ordem de inserção dos objetos. Isso torna sua execução tão rápida quanto a do HashSet.
+
+Apesar disso, as duas implementações são bastante parecidas e atendem as necessidades. Caso seja de desejo do programador diminuir o tempo, é importante alterar a implementação.
